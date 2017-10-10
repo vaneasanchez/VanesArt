@@ -189,7 +189,7 @@ body {
 }
 .banner-main-home {
 	background-color: white;
-	background-image: url(../images/banner-bg-home.jpg);
+	background-image: url(../images/woodsmallburned.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: bottom right;
@@ -245,7 +245,7 @@ body {
 	position: relative;
 	float: left;
 	width: 55%;
-	color: #000;
+	color: #FFF;
 	text-align: left;
 	right: 0;
 	top: 0px; 
